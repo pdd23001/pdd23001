@@ -17,8 +17,8 @@
 🎓 Computer Science @ UConn (Graduating 2027)<br>
 ⚛️ Built quantum software<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See what I built: [AQC Dynamics Template](https://github.com/qiskit-community/qiskit-function-templates/tree/main/physics/aqc_trotter)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · Quantum Computing Intern<br>
-&nbsp;&nbsp;&nbsp;&nbsp;See what I built: [AQC Dynamics Template](https://github.com/qiskit-community/qiskit-function-templates/tree/main/physics/aqc_trotter)<br>
 🔬 Researching hybrid quantum algorithms for optimization and simulation @ UConn<br>
 🛠️ Qiskit Advocate (IBM), contributing upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
 🧠 Interested in quantum-inspired methods for classical machine learning<br>
