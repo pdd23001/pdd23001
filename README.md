@@ -12,7 +12,9 @@
 
 ---
 
-⚛️ Built quantum software @ IBM ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41)) and @ BosonQ Psi<br>
+⚛️ Built quantum software<br>
+&nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Qiskit Serverless function for Trotterization and AQC ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · quantum-assisted PINNs and quantum-inspired optimization<br>
 🔬 Researching hybrid quantum algorithms for optimization and simulation @ UConn<br>
 🛠️ Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
 🧠 Interested in quantum-inspired methods for classical machine learning<br>
@@ -60,6 +62,17 @@
 </td>
 </tr>
 </table>
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdd23001&theme=github" alt="GitHub profile summary">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdd23001&theme=github" alt="Repositories per language" height="200">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdd23001&theme=github" alt="Most committed language" height="200">
+
+</div>
 
 <div align="center">
 
