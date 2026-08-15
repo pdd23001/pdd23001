@@ -2,104 +2,115 @@
 
 # Parth Danve
 
-**I build Qiskit tooling that runs on real IBM Quantum hardware.**
+**Quantum software engineer — algorithms, tooling, and the infrastructure that runs them.**
 
-![Qiskit Advocate](https://img.shields.io/badge/Qiskit_Advocate-IBM-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![IBM](https://img.shields.io/badge/Quantum_SWE_Intern_'26-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Qiskit Advocate](https://img.shields.io/badge/Qiskit_Advocate-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![UConn](https://img.shields.io/badge/CS_Honors-UConn_'27-E4002B?style=flat-square)
+![Storrs, CT](https://img.shields.io/badge/Storrs,_CT-555?style=flat-square)
 
 </div>
+
+- ⚛️ Build **quantum software tooling** — reusable functions, serverless workflows, and templates that run on real hardware
+- 🔬 Research **hybrid quantum algorithms** for optimization and simulation — QAOA, ADMM, quantum annealing, N-body methods
+- 🧠 Apply **quantum-inspired methods to classical ML** — physics-informed networks and evolutionary optimizers that drop into PyTorch
+- 🛠️ Contribute **upstream to Qiskit** and the IBM Quantum Platform documentation
+- 🏆 Compete in **quantum hackathons** — 3 podium finishes at Yale, MIT, and UConn in 2025
 
 ---
 
 ## Shipped upstream
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>⚛️ AQC + Trotter Hamiltonian dynamics template</b> &nbsp;·&nbsp; <code>+3,673</code> lines &nbsp;·&nbsp; <b>100×</b> less peak memory</summary>
+<br>
 
-<h3>⚛️ AQC + Trotter template</h3>
+Reusable 1-D Hamiltonian dynamics simulation that runs across local, simulated, and IBM Quantum hardware backends — combining Trotterization with Approximate Quantum Compilation.
 
-<a href="https://github.com/qiskit-community/qiskit-function-templates/pull/41"><b>qiskit-function-templates#41</b></a><br>
-Reusable 1-D Hamiltonian dynamics across local, simulated, and IBM Quantum hardware backends.<br><br>
-<b><code>+3,673</code> lines · 22 files</b><br>
-<b>100×</b> less peak memory at 50 qubits · <b>≥0.999</b> AQC fidelity
+**`+3,673` lines across 22 files** · **100×** lower peak memory at 50 qubits (10× at 30–40) · **≥0.999** AQC fidelity against IBM's simulation benchmark
 
-</td>
-<td width="50%" valign="top">
+→ [qiskit-community/qiskit-function-templates#41](https://github.com/qiskit-community/qiskit-function-templates/pull/41)
 
-<h3>📖 IBM Quantum Platform docs &nbsp;<sup>in review</sup></h3>
+</details>
 
-<a href="https://github.com/Qiskit/documentation/pull/5510"><b>Qiskit/documentation#5510</b></a><br>
-Neutron scattering tutorial function + AQC function template for <code>quantum.cloud.ibm.com/docs</code>.<br><br>
-<b><code>+1,641</code> lines</b> · co-authored, <b>13 of 24 commits</b>
+<details>
+<summary><b>📖 Neutron scattering tutorial + AQC template</b> &nbsp;·&nbsp; <code>+1,641</code> lines &nbsp;·&nbsp; <sup>in review</sup></summary>
+<br>
 
-</td>
-</tr>
-</table>
+Tutorial function and AQC function template written for `quantum.cloud.ibm.com/docs`, the IBM Quantum Platform learning catalog.
+
+**`+1,641` lines across 14 files** · co-authored — **13 of 24 commits** · currently in review
+
+→ [Qiskit/documentation#5510](https://github.com/Qiskit/documentation/pull/5510)
+
+</details>
 
 ## Research
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<details>
+<summary><b>🛰️ Satellite orbital propagation</b> &nbsp;·&nbsp; <b>200×</b> faster than Orekit</summary>
+<br>
 
-<h4>Orbital propagation</h4>
-Quantum-assisted PINNs for satellite orbit propagation.<br><br>
-<b>200×</b> faster than Orekit at comparable accuracy.<br>
+Quantum-assisted physics-informed neural networks (QA-PINN) for satellite orbit propagation, benchmarked against Orekit — a leading astrodynamics package — at comparable accuracy.
+
 <sub>BosonQ Psi</sub>
 
-</td>
-<td width="33%" valign="top">
+</details>
 
-<h4>Quantum-inspired optimization</h4>
-PyTorch-compatible optimizer wrappers for QIEO — drops into training loops like ADAM.<br><br>
+<details>
+<summary><b>📉 Quantum-inspired optimization</b> &nbsp;·&nbsp; sparse recovery + PyTorch optimizers</summary>
+<br>
+
+Applied quantum-inspired evolutionary optimization (QIEO) to non-convex sparse recovery, reconstructing high-dimensional signals from limited measurements. Built PyTorch-compatible optimizer wrappers so QIEO drops into standard training loops the way ADAM does.
+
 <sub>BosonQ Psi</sub>
 
-</td>
-<td width="33%" valign="top">
+</details>
 
-<h4>Hybrid quantum algorithms</h4>
-N-body neighbor search beating current heuristics asymptotically; QAOA + ADMM for mixed binary optimization.<br><br>
-<b>90%</b> runtime speedup over the original implementation.<br>
-<sub>UConn School of Computing</sub>
+<details>
+<summary><b>🌌 Hybrid quantum algorithms</b> &nbsp;·&nbsp; <b>90%</b> runtime speedup</summary>
+<br>
 
-</td>
-</tr>
-</table>
+Hybrid quantum algorithms for close-neighbor search in N-body simulations, asymptotically faster than current heuristics — optimized to **90%** runtime speedup over the original implementation. Separately, combined ADMM with QAOA to solve mixed binary optimization problems, benchmarked in Qiskit.
+
+<sub>UConn School of Computing · mentors: Dr. Sanguthevar Rajasekaran, Dr. Bing Wang</sub>
+
+</details>
 
 ## Hackathons
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<details>
+<summary><b>🥇 Yale Quantum 2025</b> &nbsp;·&nbsp; 1st, BlueQubit Challenge &nbsp;·&nbsp; <b>500%</b> speedup</summary>
+<br>
 
-<h4>🥇 Yale Quantum 2025</h4>
-<sub>1st — BlueQubit Challenge</sub><br><br>
-Hunted hidden peaked bitstrings in circuits too entangled for classical simulators. Tuned MPS bond dimensions in Quimb + Qiskit-Aer.<br><br>
-<b>500%</b> speedup on a 44-qubit circuit<br><br>
-<a href="https://github.com/pdd23001/YQuantum2025-Last-Minute">→ YQuantum2025-Last-Minute</a>
+Hunted hidden peaked bitstrings in circuits too entangled and too deep for classical CPU/GPU simulators — and in some cases for quantum hardware. Tuned matrix product state bond dimensions across BlueQubit, Qiskit-Aer, and Quimb.
 
-</td>
-<td width="33%" valign="top">
+**500%** speedup on a 44-qubit circuit
 
-<h4>🥇 HackUConn 2025</h4>
-<sub>1st place overall</sub><br><br>
-Finals scheduling as a D-Wave constrained quadratic model, plus a fine-tuned GPT-2 prototype for AI academic advising.<br><br>
-<a href="https://github.com/pdd23001/QuantumAdvisors">→ QuantumAdvisors</a>
+→ [pdd23001/YQuantum2025-Last-Minute](https://github.com/pdd23001/YQuantum2025-Last-Minute)
 
-</td>
-<td width="33%" valign="top">
+</details>
 
-<h4>🥉 MIT iQuHack 2025</h4>
-<sub>3rd — D-Wave Challenge</sub><br><br>
-Hospital logistics as a quadratic assignment problem with time-varying flow, solved on hybrid quantum annealers.<br><br>
-<b>50%</b> better minimization than SciPy baselines<br><br>
-<a href="https://github.com/Hackers-of-Tomorrow/5-idiots-MIT">→ 5-idiots-MIT</a>
+<details>
+<summary><b>🥇 HackUConn 2025</b> &nbsp;·&nbsp; 1st place overall</summary>
+<br>
 
-</td>
-</tr>
-</table>
+University finals scheduling as a constrained quadratic model on D-Wave's annealers, with simulated annealing via variational quantum algorithms in Qiskit. Fine-tuned GPT-2 to prototype AI-assisted academic advising.
+
+→ [pdd23001/QuantumAdvisors](https://github.com/pdd23001/QuantumAdvisors)
+
+</details>
+
+<details>
+<summary><b>🥉 MIT iQuHack 2025</b> &nbsp;·&nbsp; 3rd, D-Wave Challenge &nbsp;·&nbsp; <b>50%</b> better minimization</summary>
+<br>
+
+Hospital logistics — patient rooms and supply closets with flow varying over time — formulated as quadratic assignment problems, as both constrained quadratic and non-linear models, then solved on D-Wave's hybrid annealers.
+
+**50%** better minimization accuracy than SciPy's non-linear baselines
+
+→ [Hackers-of-Tomorrow/5-idiots-MIT](https://github.com/Hackers-of-Tomorrow/5-idiots-MIT)
+
+</details>
 
 ## Toolkit
 
