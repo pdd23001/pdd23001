@@ -70,9 +70,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdd23001&theme=github" alt="GitHub profile summary">
+<img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile summary">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdd23001&theme=github" alt="Repositories per language" height="200">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdd23001&theme=github" alt="Most committed language" height="200">
+<img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" height="200">
+<img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed language" height="200">
 
 </div>
