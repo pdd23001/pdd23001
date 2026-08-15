@@ -12,11 +12,11 @@
 
 ---
 
-- Formerly a Quantum Software Engineer Intern at IBM, where I built a [Qiskit Serverless function](https://github.com/qiskit-community/qiskit-function-templates/pull/41) for Trotterization and Approximate Quantum Compilation, and a Quantum Computing Intern at BosonQ Psi working on quantum-assisted PINNs and quantum-inspired optimization
-- Undergraduate Research Assistant at the UConn School of Computing, working on hybrid quantum algorithms for N-body neighbor search and on combining ADMM with QAOA for mixed binary optimization
-- Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform documentation
-- Interested in where quantum-inspired methods meet classical machine learning, from physics-informed networks to evolutionary optimizers that drop into PyTorch training loops
-- Three podium finishes at 2025 quantum hackathons: Yale, HackUConn, and MIT iQuHack
+• Former Quantum Software Engineer Intern at IBM and Quantum Computing Intern at BosonQ Psi. [See what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41)<br>
+• Undergraduate Research Assistant at UConn, on hybrid quantum algorithms for optimization and simulation<br>
+• Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
+• Interested in quantum-inspired methods for classical machine learning<br>
+• Four podium finishes at 2025 and 2026 quantum hackathons: Yale and MIT iQuHack
 
 ## Toolkit
 
