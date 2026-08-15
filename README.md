@@ -2,7 +2,7 @@
 
 # Hi, I am Parth!
 
-**Quantum software engineer building algorithms, tooling, and the infrastructure that runs them.**
+**I build algorithms, tooling, and infrastructure for quantum computing.**
 
 ![Qiskit Advocate](https://img.shields.io/badge/Qiskit_Advocate-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![IBM](https://img.shields.io/badge/Quantum_SWE_Intern_'26-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
