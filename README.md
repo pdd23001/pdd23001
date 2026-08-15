@@ -1,27 +1,27 @@
 # Parth Danve
 
-Quantum Software Engineer • CS Honors @ University of Connecticut (GPA 4.00) • Qiskit Advocate (IBM)
+I build Qiskit tooling that runs on real IBM Quantum hardware.
 
-Building quantum algorithms and tooling on Qiskit — from serverless functions running on IBM Quantum hardware to quantum-assisted optimization and simulation. Currently an Undergraduate Research Assistant at UConn's School of Computing, working on hybrid quantum algorithms for N-body simulation and QAOA-based combinatorial optimization.
+CS Honors @ UConn · Qiskit Advocate (IBM) · quantum software engineering intern @ IBM, summer 2026
 
-### Recent work
+### Shipped upstream
 
-- **IBM — Quantum Software Engineer Intern**: built a Qiskit Serverless function for Trotterization + Approximate Quantum Compilation; reduced peak memory up to 100× at 50 qubits while holding ≥0.999 fidelity against IBM's simulation benchmark.
-- **BosonQ Psi — Quantum Computing Intern**: quantum-assisted PINNs for satellite orbit propagation, 200× faster than Orekit; built PyTorch-compatible optimizer wrappers for a quantum-inspired evolutionary optimizer.
-- **Hackathons**: 1st place (BlueQubit Challenge) @ Yale Quantum Hackathon — 500% speedup on a 44-qubit MPS simulation; 1st place @ HackUConn; 3rd place (D-Wave Challenge) @ MIT iQuHack.
+**[Qiskit/qiskit#16389](https://github.com/Qiskit/qiskit/pull/16389)** — input validation for negative errors in `SynthesizeRZRotations`. Merged into Qiskit core.
 
-### Stack
+**[qiskit-function-templates#41](https://github.com/qiskit-community/qiskit-function-templates/pull/41)** — AQC + Trotter Hamiltonian dynamics template (+3,673 lines, 22 files). Reusable 1-D Hamiltonian simulation across local, simulated, and IBM Quantum hardware backends; cut peak memory up to 100× at 50 qubits while holding ≥0.999 AQC fidelity against IBM's benchmark.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**[qiskit-serverless#2355](https://github.com/Qiskit/qiskit-serverless/pull/2355)** · **[#2335](https://github.com/Qiskit/qiskit-serverless/pull/2335)** — addon version and dependency maintenance.
 
-### Stats
+### In review
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdd23001&show_icons=true&theme=default&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdd23001&layout=compact&hide_border=true)
+**[Qiskit/documentation#5510](https://github.com/Qiskit/documentation/pull/5510)** — neutron scattering tutorial function + AQC function template for the IBM Quantum Platform docs. Co-authored; 13 of 24 commits.
+
+### Elsewhere
+
+Quantum-assisted PINNs for satellite orbit propagation, 200× faster than Orekit, and PyTorch-compatible wrappers for a quantum-inspired evolutionary optimizer (BosonQ Psi). Hybrid quantum algorithms for N-body neighbor search, and QAOA + ADMM for mixed binary optimization (UConn School of Computing).
+
+1st place @ Yale Quantum Hackathon (BlueQubit) · 1st place @ HackUConn · 3rd place @ MIT iQuHack (D-Wave)
+
+Python · C++ · Qiskit · PyTorch · Docker
 
 [LinkedIn](https://linkedin.com/in/parthdanve39) · [parthdanve39@gmail.com](mailto:parthdanve39@gmail.com)
