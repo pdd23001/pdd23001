@@ -13,7 +13,7 @@
 ---
 
 ⚛️ Built quantum software<br>
-&nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · Quantum Computing Intern<br>
 🔬 Researching hybrid quantum algorithms for optimization and simulation @ UConn<br>
 🛠️ Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
@@ -76,6 +76,8 @@
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/parthdanve39) · [parthdanve39@gmail.com](mailto:parthdanve39@gmail.com)
+[![Resume](https://img.shields.io/badge/Résumé-PDF-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pdd23001/pdd23001/blob/main/Parth_Danve_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthdanve39)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdanve39@gmail.com)
 
 </div>
