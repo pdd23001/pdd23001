@@ -5,7 +5,7 @@
 **I build Qiskit tooling that runs on real IBM Quantum hardware.**
 
 ![Qiskit Advocate](https://img.shields.io/badge/Qiskit_Advocate-IBM-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![IBM](https://img.shields.io/badge/Quantum_SWE_Intern-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/Quantum_SWE_Intern_'26-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
 ![UConn](https://img.shields.io/badge/CS_Honors-UConn_'27-E4002B?style=flat-square)
 
 </div>
@@ -18,32 +18,12 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧩 Qiskit core &nbsp;<sup>7.7k ★</sup></h3>
-
-<a href="https://github.com/Qiskit/qiskit/pull/16389"><b>Qiskit/qiskit#16389</b></a><br>
-Input validation for negative errors in <code>SynthesizeRZRotations</code>.<br><br>
-<b>Merged</b> — through 9 rounds of maintainer review in the main Qiskit repo.
-
-</td>
-<td width="50%" valign="top">
-
 <h3>⚛️ AQC + Trotter template</h3>
 
 <a href="https://github.com/qiskit-community/qiskit-function-templates/pull/41"><b>qiskit-function-templates#41</b></a><br>
 Reusable 1-D Hamiltonian dynamics across local, simulated, and IBM Quantum hardware backends.<br><br>
 <b><code>+3,673</code> lines · 22 files</b><br>
 <b>100×</b> less peak memory at 50 qubits · <b>≥0.999</b> AQC fidelity
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛠️ Qiskit Serverless</h3>
-
-<a href="https://github.com/Qiskit/qiskit-serverless/pull/2355"><b>#2355</b></a> — AQC Tensor addon version<br>
-<a href="https://github.com/Qiskit/qiskit-serverless/pull/2335"><b>#2335</b></a> — Cotengrust dependency<br><br>
-<b>Merged</b> — dependency maintenance on the serverless execution stack.
 
 </td>
 <td width="50%" valign="top">
@@ -88,10 +68,38 @@ N-body neighbor search beating current heuristics asymptotically; QAOA + ADMM fo
 </tr>
 </table>
 
-> [!NOTE]
-> **🥇 Yale Quantum Hackathon** — 1st, BlueQubit Challenge. Tuned MPS bond dimensions to hit a **500% speedup** on a 44-qubit peaked circuit.
-> **🥇 HackUConn** — 1st. D-Wave CQM for finals scheduling + a fine-tuned GPT-2 academic advising prototype.
-> **🥉 MIT iQuHack** — 3rd, D-Wave Challenge. **50%** better minimization accuracy than SciPy's non-linear baselines.
+## Hackathons
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h4>🥇 Yale Quantum 2025</h4>
+<sub>1st — BlueQubit Challenge</sub><br><br>
+Hunted hidden peaked bitstrings in circuits too entangled for classical simulators. Tuned MPS bond dimensions in Quimb + Qiskit-Aer.<br><br>
+<b>500%</b> speedup on a 44-qubit circuit<br><br>
+<a href="https://github.com/pdd23001/YQuantum2025-Last-Minute">→ YQuantum2025-Last-Minute</a>
+
+</td>
+<td width="33%" valign="top">
+
+<h4>🥇 HackUConn 2025</h4>
+<sub>1st place overall</sub><br><br>
+Finals scheduling as a D-Wave constrained quadratic model, plus a fine-tuned GPT-2 prototype for AI academic advising.<br><br>
+<a href="https://github.com/pdd23001/QuantumAdvisors">→ QuantumAdvisors</a>
+
+</td>
+<td width="33%" valign="top">
+
+<h4>🥉 MIT iQuHack 2025</h4>
+<sub>3rd — D-Wave Challenge</sub><br><br>
+Hospital logistics as a quadratic assignment problem with time-varying flow, solved on hybrid quantum annealers.<br><br>
+<b>50%</b> better minimization than SciPy baselines<br><br>
+<a href="https://github.com/Hackers-of-Tomorrow/5-idiots-MIT">→ 5-idiots-MIT</a>
+
+</td>
+</tr>
+</table>
 
 ## Toolkit
 
