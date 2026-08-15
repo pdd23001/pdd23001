@@ -12,8 +12,8 @@
 
 ---
 
-💼 Former Quantum Software Engineer Intern at IBM ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41)) and Quantum Computing Intern at BosonQ Psi <br>
-🔬 Undergraduate Research Assistant at UConn, on hybrid quantum algorithms for optimization and simulation<br>
+⚛️ Built quantum software @ IBM ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41)) and @ BosonQ Psi<br>
+🔬 Researching hybrid quantum algorithms for optimization and simulation @ UConn<br>
 🛠️ Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
 🧠 Interested in quantum-inspired methods for classical machine learning<br>
 🏆 Four podium finishes at 2025 and 2026 quantum hackathons: Yale and MIT iQuHack
