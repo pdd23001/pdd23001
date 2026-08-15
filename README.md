@@ -4,9 +4,9 @@
 
 **I help build algorithms, tooling, and infrastructure for quantum computing.**
 
-![Qiskit Advocate](https://img.shields.io/badge/Qiskit_Advocate-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![IBM](https://img.shields.io/badge/Quantum_SWE_Intern_'26-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![UConn](https://img.shields.io/badge/CS_Honors-UConn_'27-E4002B?style=flat-square)
+[![Resume](https://img.shields.io/badge/Résumé-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pdd23001/pdd23001/blob/main/Parth_Danve_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthdanve39)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdanve39@gmail.com)
 
 </div>
 
@@ -14,12 +14,12 @@
 
 ## About me
 
-🎓 Computer Science (Honors) @ UConn (Graduating 2027)<br>
+🎓 Computer Science @ UConn (Graduating 2027)<br>
 ⚛️ Built quantum software<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · Quantum Computing Intern<br>
 🔬 Researching hybrid quantum algorithms for optimization and simulation @ UConn<br>
-🛠️ Contribute upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
+🛠️ Qiskit Advocate (IBM), contributing upstream to Qiskit, Qiskit Serverless, and the IBM Quantum Platform docs<br>
 🧠 Interested in quantum-inspired methods for classical machine learning<br>
 🏆 Four podium finishes at 2025 and 2026 quantum hackathons: Yale and MIT iQuHack
 
@@ -74,13 +74,5 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdd23001&theme=github" alt="Repositories per language" height="200">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdd23001&theme=github" alt="Most committed language" height="200">
-
-</div>
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Résumé-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pdd23001/pdd23001/blob/main/Parth_Danve_Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthdanve39)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdanve39@gmail.com)
 
 </div>
