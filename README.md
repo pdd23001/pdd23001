@@ -14,6 +14,7 @@
 
 ## About me
 
+🎓 Computer Science (Honors) @ UConn (Graduating 2027)<br>
 ⚛️ Built quantum software<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · Quantum Computing Intern<br>
