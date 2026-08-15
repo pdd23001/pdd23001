@@ -1,6 +1,6 @@
 <div align="center">
 
-# Parth Danve
+# Hi, I am Parth!
 
 **Quantum software engineer building algorithms, tooling, and the infrastructure that runs them.**
 
