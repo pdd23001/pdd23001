@@ -12,6 +12,8 @@
 
 ---
 
+## About me
+
 ⚛️ Built quantum software<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>IBM</b> · May to Aug 2026 · Quantum Software Engineer Intern ([see what I built](https://github.com/qiskit-community/qiskit-function-templates/pull/41))<br>
 &nbsp;&nbsp;&nbsp;&nbsp;↳ @ <b>BosonQ Psi</b> · Jun 2025 to May 2026 · Quantum Computing Intern<br>
@@ -35,21 +37,21 @@
 </td>
 </tr>
 <tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-</td>
-</tr>
-<tr>
 <td><b>ML</b></td>
 <td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </td>
 </tr>
 <tr>
@@ -76,7 +78,7 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Résumé-PDF-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pdd23001/pdd23001/blob/main/Parth_Danve_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Résumé-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pdd23001/pdd23001/blob/main/Parth_Danve_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthdanve39)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdanve39@gmail.com)
 
