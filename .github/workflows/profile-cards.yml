@@ -15,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      # Pinned to the release branch head as of 2026-08-15 (v0.12.0).
+      # Bump deliberately after reviewing upstream changes.
+      - uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
         env:
           # Falls back to the built-in token if no PAT secret is configured.
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
