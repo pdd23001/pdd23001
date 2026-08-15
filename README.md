@@ -10,12 +10,6 @@
 
 </div>
 
-- ⚛️ Build **quantum software tooling**: reusable functions, serverless workflows, and templates that run on real hardware
-- 🔬 Research **hybrid quantum algorithms** for optimization and simulation, spanning QAOA, ADMM, quantum annealing, and N-body methods
-- 🧠 Apply **quantum-inspired methods to classical ML**: physics-informed networks and evolutionary optimizers that drop into PyTorch
-- 🛠️ Contribute **upstream to Qiskit** and the IBM Quantum Platform documentation
-- 🏆 Compete in **quantum hackathons**, with 3 podium finishes at Yale, MIT, and UConn in 2025
-
 ---
 
 ## Shipped upstream
